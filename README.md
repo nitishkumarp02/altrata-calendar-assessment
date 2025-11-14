@@ -36,3 +36,8 @@ This improvement demonstrates flexibility in the component design — it can now
 
 > Note: The instructions did not mention adding interactivity, so I initially used a hardcoded date (`new Date(2022, 9, 3)`) for testing and demonstration.  
 > Later, I enhanced the project to make it dynamic for a better user experience.
+> =======
+
+# altrata-calendar-assessment
+
+React Calendar Component – Altrata Front-End Engineer Assessment
