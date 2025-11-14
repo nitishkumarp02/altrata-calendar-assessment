@@ -41,3 +41,7 @@ This improvement demonstrates flexibility in the component design — it can now
 # altrata-calendar-assessment
 
 React Calendar Component – Altrata Front-End Engineer Assessment
+
+Here is the screenshots:
+<img width="960" height="540" alt="altrata-calendar-screenshot" src="https://github.com/user-attachments/assets/4ff948eb-9f1c-4ca0-9784-3787add6f169" />
+<img width="960" height="540" alt="altrata-calendar-screenshot-2" src="https://github.com/user-attachments/assets/72b94103-868b-4c1e-814b-29171d1d2876" />
